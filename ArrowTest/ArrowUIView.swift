@@ -1,7 +1,6 @@
 import SwiftUI
 
 enum leftArrowTypes {
-
   case basicArrowLeft
   case arrowLeftCircle
   case arrowLeftSquare
